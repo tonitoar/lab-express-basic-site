@@ -1,0 +1,142 @@
+/* article {
+    border: 10px solid yellow;
+}
+p {
+    border: 2px solid white;
+} */
+/* div{
+    border: 5px solid blue;
+} */
+
+html {
+    background-color: #000;
+    width: auto;
+}
+
+h2 {
+    text-align: center;
+    color: #e30714;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+
+h3 {
+    color: #de3a32;
+    font-size: 1.7em;
+    font-weight: bold;
+    margin: 50px;
+}
+
+p {
+    
+    color: #c82f28;
+    font-size: 1.2em; 
+    margin: 20px;
+    text-align: center;
+}
+
+#band {
+    width: auto;
+    height: 35%; 
+    display: flex;
+    align-items: center;
+    
+}
+
+
+.intro {
+    display: flex;
+    justify-content: center;
+}
+
+.member {
+    display: flex;
+    flex-direction: column;
+}
+.lider {
+    display: flex;
+    justify-content: center;
+}
+
+.guitar-bass {
+    display: flex;
+    justify-content: center;
+
+} 
+
+
+.piano-bateria {
+    display: flex;
+    justify-content: flex-end; 
+
+}
+
+.oli {
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: center;
+}
+
+.oliintro {
+    text-align: center; 
+    display: flex;
+    
+
+}
+
+#oliimg {
+    width: auto;
+    height: 30%;
+}
+
+.matt {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    text-align: center;
+    position: relative;
+    left: 40px; 
+}
+#mattimg {
+    width: 500px;
+    height: 30%;
+}
+
+.kean {
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: center;
+    position: relative;
+    right: 40px; 
+}
+#keanimg {
+    width: auto;
+    height: 30%;
+}
+
+
+.jordan {
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: center;
+}
+#jordanimg {
+    width: auto;
+    height: 10%;
+}
+
+
+.nich {
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: center;
+}
+#nichimg {
+    width: auto;
+    height: 10%;
+}
+
+
+
+

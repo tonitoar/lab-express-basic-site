@@ -1,0 +1,25 @@
+html {
+    background-color: #000;
+}
+
+h2 {
+    text-align: center;
+    color: #e30714;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+
+h3 {
+    color: #de3a32;
+    font-size: 1.7em;
+    font-weight: bold;
+    margin: 50px;
+}
+
+ol {
+    
+    color: #c82f28;
+    font-size: 1.2em; 
+    margin: 20px;
+}

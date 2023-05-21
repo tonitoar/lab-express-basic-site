@@ -1,0 +1,58 @@
+
+h1 {
+    text-align: center;
+    color: #e30714;
+    font-size: 100px;
+    font-weight: bold;
+    
+}
+
+html {
+    background-color: #000;
+}
+
+nav {
+    color: #de3a32; 
+    font-size: 75px;
+    position: absolute;
+    top: 50%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    
+
+}
+
+ul {
+    list-style: none;
+}
+
+
+div {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+img {
+    width: 110%;
+    height: 120%;
+    position: relative; 
+    left: -15%
+}
+
+.about {
+    margin-bottom: 50px;
+    margin-left: 30px;
+}
+.works {
+    margin-bottom: 50px;
+    margin-left: 30px;
+}
+.gallery {
+    margin-bottom: 50px;
+    margin-left: 60px;
+}
+
+.a{
+    color: #de3a32,  
+}
